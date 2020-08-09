@@ -1,5 +1,3 @@
-# Ravy's unified Discord ruleset
-
 ## 0. Preface
 
 ### 0.1 An introduction
