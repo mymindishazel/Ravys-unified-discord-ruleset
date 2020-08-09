@@ -5,7 +5,7 @@ Following this short author's note is a long and detailed ruleset. It certainly 
 The contents of this are derived from rulesets I've written in the past, from rulesets others have written in the past, from what I had in my hand while writing it, or what was on my mind before writing it.
 
 ### 0.2 License
-This piece of work is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) by [Ravy](https://ravy.pink) (contact@ravy.pink)
+This piece of work is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) by [Ravy](https://ravy.pink) (contact@ravy.pink).  
 You can find more about the license [here](https://creativecommons.org/licenses/by-nc-nd/4.0/).  
 While it might seem trivial to copy parts of this and just use them for your own ruleset without credit, a lot of work went into this and I would appreciate proper crediting.  
 If you're not sure on how to properly credit me, or which usage this license grants, feel free to reach out at contact@ravy.pink
