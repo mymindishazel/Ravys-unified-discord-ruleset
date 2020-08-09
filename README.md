@@ -6,14 +6,14 @@ The contents of this are derived from rulesets I've written in the past, from ru
 
 ### 0.2 License
 This piece of work is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) by [Ravy](https://ravy.pink) (contact@ravy.pink)
-You can find more about the license at https://creativecommons.org/licenses/by-nc-nd/4.0/  
+You can find more about the license [here](https://creativecommons.org/licenses/by-nc-nd/4.0/).  
 While it might seem trivial to copy parts of this and just use them for your own ruleset without credit, a lot of work went into this and I would appreciate proper crediting.  
 If you're not sure on how to properly credit me, or which usage this license grants, feel free to reach out at contact@ravy.pink
 
 ### 0.3 Inspiration
 Of course this document didn't come out of thin air.  
 I've written Terms of Service and rulesets in the past, and wanted to make this somewhat of a magnum opus to those rulesets, overshadowing all my previous work in the field.  
-Section I.1. is inspired by and adapted to the IETF's RFC2119 (https://tools.ietf.org/html/rfc2119).  
+Section I.1. is inspired by and adapted to the IETF's [RFC2119](https://tools.ietf.org/html/rfc2119).  
 A lot of great rules originate from the Discord Gophers' and the RiceTeaCatPanda CTF's Codes of Conduct.
 
 ## I. General Definitions
