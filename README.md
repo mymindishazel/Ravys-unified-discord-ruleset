@@ -1,4 +1,6 @@
-## 0. Preface
+# A guide to civil conversation
+
+## 0. Preamble
 
 ### 0.1 An introduction
 Following this short author's note is a long and detailed ruleset. It certainly is opinionated and represents the author's view on how a community should function and be moderated. In no way is it perfect, complete, objectively good, or anything close to that. But it is the best I can currently do, and it'd bring me great joy if it contributes to a better discussion culture, or saves moderators of communities a lot of work. One of the intents behind this is to replace the endless "use common sense" rule. Common sense differs between cultures and ages. This gives general guidelines that should all be considered common sense or etiquette, at least in my realm.  
