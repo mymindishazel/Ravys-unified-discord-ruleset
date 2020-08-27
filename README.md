@@ -1,8 +1,3 @@
----
-title: Ravy's unified Discord ruleset
-layout: page
----
-
 # A guide to civil conversation
 
 ## 0. Preamble
