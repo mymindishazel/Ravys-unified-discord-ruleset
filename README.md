@@ -12,7 +12,7 @@ You can find more about the license [here](https://creativecommons.org/licenses/
 While it might seem trivial to copy parts of this and just use them for your own ruleset without credit, a lot of work went into this and I would really appreciate if you played fair.  
 If you're not sure on how to properly credit me, or which usage rights and conditions this license grants, feel free to reach out at contact@ravy.pink  
 **Why did you chose such a strict license?** I find it easiest to start with something strict and go more open if I feel confident people are happily using it. If you're someone that really e.g. wants to do a modification, feel free to reach out to me at the above email and we can talk about an exclusive license grant.  
-**Exception for contributors** The only exception to the above license are direct contributions to this work. By this, I mean you reproducing and modifying the document in an attempt to improve it in a meaningful way (e.g. by forking it on GitHub and then opening a Pull Request). Please still contact me beforehand to make sure there aren't any issues.
+**Exception for contributors** The only exception to the above license are direct contributions to this work. By this, I mean you reproducing and modifying the document in an attempt to improve it in a meaningful way (e.g. by forking it on GitHub and then opening a Pull Request). Doing so results in an exception from the NonDerivatives clause in the license, allowing you to make modifications for the sole purpose of improving this work. Please still contact me beforehand to make sure there aren't any issues.
 
 ### 0.3 Inspiration
 Of course this document didn't come out of thin air.  
