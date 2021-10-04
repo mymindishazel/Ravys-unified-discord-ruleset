@@ -94,7 +94,7 @@ As a rule of thumb, "Act in such a way that the maxim of your will could always 
 The previous rule must only be interpreted and used as a deciding factor when there is no other rule covering the subject.
 
 **(ii) Think about others**
-Always consider other people in the community. Think about how your words and actions might affect them, and have empathy towards them.
+Always consider other people in the community. Think about how your words and actions might affect them, and have empathy toward them.
 
 **(iii) Think about the community**
 If faced with a difficult decision, decide on what is best for the community. If theres's something that will negatively impact the community, you should decide against it.
@@ -117,7 +117,7 @@ Interpret the arguments of others in good faith, you must not simply seek to dis
 You must use language that's neutral and inclusive of all members in the community, as well as free of any hatred.
 
 **(vi) Be positive**  
-You shall not actively seek out argument and disdain. Trolling can be fun and enjoyable, yet you must not troll in an attempt to make anyone feel uncomfortable. Towards others, you should start with a positive attitude. 
+You shall not actively seek out argument and disdain. Trolling can be fun and enjoyable, yet you must not troll in an attempt to make anyone feel uncomfortable. Toward others, you should start with a positive attitude. 
 
 **(vii) Be honest**  
 **a.**
@@ -164,10 +164,11 @@ This includes discussions about the superiority of different manufacturers, comp
 You should keep anything that happens inside the community or limited group of conversation participants private to said community or conversation participants. You shall not produce unauthorized records of any conversation. On the other hand, you shall not post any confidential or private information regarding a user, group, community, or other entity without their explicit or strongly implied agreement.
 
 **(viii) Hateful content**  
-You must refrain from sharing content whose purpose it is to negatively shock, insult, belittle, or spread hate towards a person or an endangered minority of people.
+You must refrain from sharing content whose purpose it is to negatively shock, insult, belittle, or spread hate toward a specific person or a group of people.
 
 **(ix) Harmful content**  
-You must not, in any situation, at any point in time, under any condition, post content that promotes, glorifies, or justifies rape, sexual harassment, gore, abuse, self-harm, or suicide or could be interpreted as such. Further, you must not make any threats whatsoever to any user, especially not of the aforementioned topics.
+**a.** You must not, in any situation, at any point in time, under any condition, post content that promotes, glorifies, or justifies rape, sexual harassment, gore, abuse, self-harm, or suicide or could easily be interpreted as such.  
+**b.** Further, you must not make any threats whatsoever to any user, especially not of the aforementioned topics.
 
 
 ## IV. Operational Guidelines
