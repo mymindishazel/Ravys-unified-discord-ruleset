@@ -226,3 +226,27 @@ I find it easiest to start with something strict and go more open if I feel conf
 
 **Exception for contributors**  
 The only exception to the above license is making direct contributions to this work. By this, I mean you reproducing and modifying the document in an attempt to improve it in a meaningful way (e.g. by forking it on GitHub and then opening a Pull Request). Doing so results in an exception from the NoDerivatives clause in the license, allowing you to make modifications for the sole purpose of improving this work. Please still contact me beforehand to make sure there aren't any issues.
+
+### PS.3. A summary of the rules
+
+Especially on Discord, there's sometimes places where you don't want to put the whole ruleset. For this purpose, you can find a summary below:
+
+1. Be fair, don't act in bad faith towards others, and don't seek to disagree.
+
+2. Be kind and respectful to others, don't spread hate or act negative for the sake of it. Don't glorify bad actions and don't incite dangerous activities.
+
+3. Be honest, don't misrepresent yourself or others. Don't impersonate anyone.
+
+4. Don't try to circumvent any moderative measures. Don't interpret rules or messages in bad faith.
+
+5. Try avoiding content that is inherently fuel for destructive discussion, e.g. personal preferences in brands or politics.
+
+6. Don't put yourself in the spotlight. Be that through hoisting yourself, randomly mentioning users, or by posting content that's meant to draw unnecessary attention.
+
+7. Don't advertise. This includes links, references to other communities or projects with intent to draw traffic, nicknames, and custom statuses - even if they don't generate you any revenue.
+
+8. Stay on-topic if possible. Don't try disrupting the conversation with spam or meaningless content.
+
+9. Keep confidential content secret. This includes spreading content from the community outside of it, as well as spreading outside content in the community.
+
+10. For a full and detailed list of rules, check out https://conversation.guide
