@@ -87,33 +87,47 @@ An attempt to violate any of the following guidelines should be punished to the 
 **(iii) Scope of a violation**  
 The following and previous guidelines apply to any aspect of your community membership. This includes text messages, voice communication, profile cards, and any other visible, invisible, direct, or implied item linked to the community.
 
-### II.2. Being part of a community
+### II.2. Fallback
+
+**(i) Think about your own actions**
+As a rule of thumb, "Act in such a way that the maxim of your will could always hold at the same time as a principle of a universal legislation." (Kant, Critique of Practical Reason)  
+The previous rule must only be interpreted and used as a deciding factor when there is no other rule covering the subject.
+
+**(ii) Think about others**
+Always consider other people in the community. Think about how your words and actions might affect them, and have empathy towards them.
+
+**(iii) Think about the community**
+If faced with a difficult decision, decide on what is best for the community. If theres's something that will negatively impact the community, you should decide against it.
+
+### II.3. Being part of a community
 
 **(i) Be fair**  
-Do as you want to be done by. Keep the aforementioned general rule with you at any point in time. It must only be interpreted and used as a deciding factor when there is no other rule covering the subject. You should gracefully accept constructive criticism and you should not criticize anyone in a hateful or ad personam / ad hominem way. Even though staff decisions are not perfect and only human, you must abide by them. You may exert any constructive criticism on a staff member's decision after complying with it. Said staff member should not leave the criticism unevaluated, given it is valid and constructive.
+You should gracefully accept constructive criticism and you should not criticize anyone in a hateful or (purely) personal way (e.g. ad personam or ad hominem). This includes staff members. Even though staff decisions are not perfect, you must abide by them until ruled otherwise. You may exert any constructive criticism on a staff member's decision after complying with it. Said staff member should not leave the criticism unevaluated, given it is valid and constructive. If you believe the decision was made in bad faith, refer to section IV.1. (iii).
 
 **(ii) Be thoughtful**  
-Think about other people in the community. Think about how your words and actions might affect them, and have empathy towards them. You shall not intent to make any other user feel unwelcomed or uncomfortable in the community. If you're unsure whether something you'll be doing will negatively impact someone, you should refrain from it. You must refrain from any behavior that is socially unacceptable, hateful, toxic, harassing, racist, sexist, or discriminating in any other way. You should avoid topics that could fuel such behavior, such as religious or political discussions.
+You shall not intent to make any other user feel unwelcomed or uncomfortable in the community. If you're unsure whether something you'll be doing will negatively impact someone, you should refrain from it. You must refrain from any behavior that is socially unacceptable, hateful, toxic, harassing, racist, sexist, or discriminating in any other way. You should avoid topics that could fuel such behavior, such as religious or political discussions.
 
 **(iii) Be patient**  
-A lot of people might have trouble partaking in a community. Be that missing knowledge of it, language barrier, or any other factors that limit or hinder them. You must at all times stay welcoming and supportive, instead of gatekeeping and destructive.
+A lot of people might have trouble partaking in a community. Be that missing knowledge of it, language barrier, or any other factors that limit or hinder them. You must at all times stay welcoming, instead of gatekeeping and destructive.
 
-**(iv) Be social**  
-Focus on what is best for the community. If you're faced with something that will negatively impact the community, you should decide against it.
-
-**(v) Be respectful**  
+**(iv) Be respectful**  
 Interpret the arguments of others in good faith, you must not simply seek to disagree. You shall respect the different viewpoints and experiences of others and should be empathetic towards them. Everyone matters just as much, you should not show disrespect to any members of the community or outsiders, competitors, partners, or even other communities.
 
-**(vi) Be welcoming**  
+**(v) Be welcoming**  
 You must use language that's neutral and inclusive of all members in the community, as well as free of any hatred.
 
-**(vii) Be positive**  
-Towards others, you should start with a positive attitude. You shall not actively seek out argument and disdain. Trolling can be fun and enjoyable, yet you must not troll in an attempt to make anyone feel uncomfortable.
+**(vi) Be positive**  
+You shall not actively seek out argument and disdain. Trolling can be fun and enjoyable, yet you must not troll in an attempt to make anyone feel uncomfortable. Towards others, you should start with a positive attitude. 
 
-**(viii) Be honest**  
-Under no circumstances must you lie or give untruthful statements about others or yourself. You shall not unfairly influence public opinion on a person, community, entity, or topic or suggest to do so. Further, you must not accuse anyone with unbackable claims or give wrong feedback to or about someone. You shall especially not defame, libel, or slander someone. You shall not impersonate anyone, misrepresent, or falsely mock them.
+**(vii) Be honest**  
+**a.**
+Under no circumstances must you lie or give untruthful statements about others or yourself. You shall not unfairly influence public opinion on a person, community, entity, or topic or suggest to do so.  
+**b.**
+Further, you must not accuse anyone with unbackable claims or give wrong feedback to or about someone. You shall especially not defame, libel, or slander someone.  
+**c.**
+You shall not impersonate or misrepresent anyone.
 
-### II.3. Integrity
+### II.4. Integrity
 
 **(i) Do not abuse automated systems**  
 You must not and must not allow someone to reverse engineer, disrupt, or interfere with any automated systems in place to support the community. You must also refrain from misusing places built for feedback, suggestions, or support.
@@ -195,7 +209,8 @@ If any party in a similar case (not the same case the request for arbitration wa
 ### PS.1. Inspiration
 
 Of course, this document didn't come out of thin air.  
-I've written Terms of Service and rulesets in the past and wanted to make this somewhat of a magnum opus to those rulesets, overshadowing all my previous work in the field.  
+The contents of this are derived from rulesets I've written in the past, from rulesets others have written in the past, from what I had in my hand while writing it, or what was on my mind before writing it.
+I've written Terms of Service and rulesets in the past and wanted to make this somewhat of a bigger and general successor to those rulesets, based on my previous work experience in the field.  
 Section I.1. is inspired by and adapted to the IETF's [RFC2119](https://tools.ietf.org/html/rfc2119).  
 A lot of great rules originate from the Discord Gophers' and the RiceTeaCatPanda CTF's respective Codes of Conduct.
 The arbitration process is inspired by the RfA and Arbitration Committee on Wikipedia.
