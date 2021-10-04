@@ -111,7 +111,7 @@ You shall not intent to make any other user feel unwelcomed or uncomfortable in 
 A lot of people might have trouble partaking in a community. Be that missing knowledge of it, language barrier, or any other factors that limit or hinder them. You must at all times stay welcoming, instead of gatekeeping and destructive.
 
 **(iv) Be respectful**  
-Interpret the arguments of others in good faith, you must not simply seek to disagree. You shall respect the different viewpoints and experiences of others and should be empathetic towards them. Everyone matters just as much, you should not show disrespect to any members of the community or outsiders, competitors, partners, or even other communities.
+Interpret the arguments of others in good faith, you must not simply seek to disagree. You shall respect the different viewpoints and experiences of others and should be empathetic toward them. Everyone matters just as much, you should not show disrespect to any members of the community or outsiders, competitors, partners, or even other communities.
 
 **(v) Be welcoming**  
 You must use language that's neutral and inclusive of all members in the community, as well as free of any hatred.
