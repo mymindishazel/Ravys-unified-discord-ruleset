@@ -162,7 +162,7 @@ You should not inquire for or suggest a moderative rank in the community unless 
 You must not use the community to advertise, share referrals, share or promote revenue producing links or codes, or promote external communities or competitors, unless explicitly asked to do so in the natural flow of conversation without your prior mention.  
 **d.**
 You should not use the community to inquire for anything of personal gain unless explicitly asked to do so in the natural flow of conversation without your prior mention.  
-**3.**
+**e.**
 You should reserve mentioning users or otherwise increasing the notification priority of a message for relevant or urgent circumstances.  
 
 
