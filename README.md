@@ -154,7 +154,17 @@ You shall not post content that is negatively shocking, sexually explicit, or ot
 Most chatrooms, spaces, subcommunities, or whatever sections of communication are marked to have a topic. You should stay on that topic at any time. You also shouldn't interrupt an ongoing conversation for the sake of bringing your topic into it to the disdain of the previous participants.
 
 **(v) Unpleasant content**  
-You should not necropost, minimod, spoil, or generally ruin or impair fun and enjoyment for other members. You should not inquire for or suggest a moderative rank in the community. You must not use the community to advertise, share referrals, share or promote revenue producing links or codes, or promote external communities or competitors, unless explicitly asked to do so in the natural flow of conversation without your prior mention. You should reserve mentioning users or increasing the notification priority of a message in any other way for relevant or urgent circumstances.
+**a.**
+You should not necropost, minimod, spoil, or generally ruin or impair fun and enjoyment for other members.  
+**b.**
+You should not inquire for or suggest a moderative rank in the community unless via an official form.  
+**c.**
+You must not use the community to advertise, share referrals, share or promote revenue producing links or codes, or promote external communities or competitors, unless explicitly asked to do so in the natural flow of conversation without your prior mention.  
+**d.**
+You should not use the community to inquire for anything of personal gain unless explicitly asked to do so in the natural flow of conversation without your prior mention.  
+**3.**
+You should reserve mentioning users or otherwise increasing the notification priority of a message for relevant or urgent circumstances.  
+
 
 **(vi) Controversial content**  
 Non ad-hoc discussions about intrinsically subjective preferences should be avoided.
@@ -249,4 +259,4 @@ Especially on Discord, there's sometimes places where you don't want to put the 
 
 9. Keep confidential content secret. This includes spreading content from the community outside of it, as well as spreading outside content in the community.
 
-10. For a full and detailed list of rules, check out https://conversation.guide
+10. *For a full and detailed list of rules, check out https://conversation.guide*
