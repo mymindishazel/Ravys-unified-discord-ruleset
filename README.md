@@ -1,6 +1,6 @@
 # A guide to civil conversation
 
-*Last changed: 15th September 2021*
+*Last changed: 4th October 2021*
 
 
 ## 0. Preamble
@@ -12,21 +12,7 @@ The contents of this are derived from rulesets I've written in the past, from ru
 ### 0.2 License
 This piece of work is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) by [Ravy](https://ravy.pink) (contact@ravy.pink).  
 You can find more about the license [here](https://creativecommons.org/licenses/by-nc-nd/4.0/).  
-While it might seem trivial to copy parts of this and just use them for your ruleset without credit, a lot of work went into this and I would appreciate you playing fair.  
-If you're not sure on how to properly credit me, or which usage rights and conditions this license grants, feel free to reach out at contact@ravy.pink
-
-**Why did you choose such a strict license?**  
-I find it easiest to start with something strict and go more open if I feel confident people are happily using it. If you're someone that really e.g. wants to do a modification, feel free to reach out to me at the above email and we can talk about an exclusive license grant.
-
-**Exception for contributors**  
-The only exception to the above license is making direct contributions to this work. By this, I mean you reproducing and modifying the document in an attempt to improve it in a meaningful way (e.g. by forking it on GitHub and then opening a Pull Request). Doing so results in an exception from the NoDerivatives clause in the license, allowing you to make modifications for the sole purpose of improving this work. Please still contact me beforehand to make sure there aren't any issues.
-
-### 0.3 Inspiration
-Of course, this document didn't come out of thin air.  
-I've written Terms of Service and rulesets in the past and wanted to make this somewhat of a magnum opus to those rulesets, overshadowing all my previous work in the field.  
-Section I.1. is inspired by and adapted to the IETF's [RFC2119](https://tools.ietf.org/html/rfc2119).  
-A lot of great rules originate from the Discord Gophers' and the RiceTeaCatPanda CTF's respective Codes of Conduct.
-The arbitration process is inspired by the RfA and Arbitration Committee on Wikipedia.
+More information about why is available in the postscript at PS.2
 
 ## I. General Definitions
 
@@ -199,3 +185,26 @@ A decision made by the arbitration committee is immediately binding and valid fo
 
 **(vi) Request for reevaluation**  
 If any party in a similar case (not the same case the request for arbitration was issued) has good faith to believe that the decision made by the arbitration committee does not apply, is inaccurate, or is invalid, they may issue an additional request for arbitration on that subject matter.
+
+
+## Postscript
+
+### PS.1 Inspiration
+
+Of course, this document didn't come out of thin air.  
+I've written Terms of Service and rulesets in the past and wanted to make this somewhat of a magnum opus to those rulesets, overshadowing all my previous work in the field.  
+Section I.1. is inspired by and adapted to the IETF's [RFC2119](https://tools.ietf.org/html/rfc2119).  
+A lot of great rules originate from the Discord Gophers' and the RiceTeaCatPanda CTF's respective Codes of Conduct.
+The arbitration process is inspired by the RfA and Arbitration Committee on Wikipedia.
+
+
+### PS.2 More about the license
+
+While it might seem trivial to copy parts of this and just use them for your ruleset without credit, a lot of work went into this and I would appreciate you playing fair.  
+If you're not sure on how to properly credit me, or which usage rights and conditions this license grants, feel free to reach out at contact@ravy.pink
+
+**Why did you choose such a strict license?**  
+I find it easiest to start with something strict and go more open if I feel confident people are happily using it. If you're someone that really e.g. wants to do a modification, feel free to reach out to me at the above email and we can talk about an exclusive license grant.
+
+**Exception for contributors**  
+The only exception to the above license is making direct contributions to this work. By this, I mean you reproducing and modifying the document in an attempt to improve it in a meaningful way (e.g. by forking it on GitHub and then opening a Pull Request). Doing so results in an exception from the NoDerivatives clause in the license, allowing you to make modifications for the sole purpose of improving this work. Please still contact me beforehand to make sure there aren't any issues.
