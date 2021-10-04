@@ -6,8 +6,7 @@
 ## 0. Preamble
 
 ### 0.1. An introduction
-Following this short author's note is a long and detailed ruleset. It certainly is opinionated and represents the author's view on how a community should function and be moderated. In no way is it perfect, complete, objectively good, or anything close to that. But it is the best I can currently do, and it'd bring me great joy if it contributes to better discussion culture, or saves moderators of communities a lot of work. One of the intents behind this is to replace the endless "use common sense" rule. Common sense differs between cultures and ages. This gives general guidelines that should all be considered common sense or etiquette, at least in my realm.  
-The contents of this are derived from rulesets I've written in the past, from rulesets others have written in the past, from what I had in my hand while writing it, or what was on my mind before writing it.
+Following this short author's note is a long and detailed ruleset. It certainly is opinionated and represents the author's view on how a community should function and be moderated. In no way is it perfect, complete, objectively good, or anything close to that. Yet, it'd bring me great joy if it contributes to better discussion culture, or saves moderators of communities some work. One of the intents behind this is to replace the "use common sense" rule. There is no clear definition of common sense. This gives concise and general guidelines that could all be considered common sense or etiquette.  
 
 ### 0.2. License
 This piece of work is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) by [Ravy](https://ravy.pink) (contact@ravy.pink).  
