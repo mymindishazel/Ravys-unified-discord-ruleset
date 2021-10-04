@@ -89,14 +89,14 @@ The following and previous guidelines apply to any aspect of your community memb
 
 ### II.2. Fallback
 
-**(i) Think about your own actions**
+**(i) Think about your own actions**  
 As a rule of thumb, "Act in such a way that the maxim of your will could always hold at the same time as a principle of a universal legislation." (Kant, Critique of Practical Reason)  
 The previous rule must only be interpreted and used as a deciding factor when there is no other rule covering the subject.
 
-**(ii) Think about others**
+**(ii) Think about others**  
 Always consider other people in the community. Think about how your words and actions might affect them, and have empathy toward them.
 
-**(iii) Think about the community**
+**(iii) Think about the community**  
 If faced with a difficult decision, decide on what is best for the community. If theres's something that will negatively impact the community, you should decide against it.
 
 ### II.3. Being part of a community
