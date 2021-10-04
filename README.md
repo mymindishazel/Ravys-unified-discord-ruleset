@@ -5,14 +5,15 @@
 
 ## 0. Preamble
 
-### 0.1 An introduction
+### 0.1. An introduction
 Following this short author's note is a long and detailed ruleset. It certainly is opinionated and represents the author's view on how a community should function and be moderated. In no way is it perfect, complete, objectively good, or anything close to that. But it is the best I can currently do, and it'd bring me great joy if it contributes to better discussion culture, or saves moderators of communities a lot of work. One of the intents behind this is to replace the endless "use common sense" rule. Common sense differs between cultures and ages. This gives general guidelines that should all be considered common sense or etiquette, at least in my realm.  
 The contents of this are derived from rulesets I've written in the past, from rulesets others have written in the past, from what I had in my hand while writing it, or what was on my mind before writing it.
 
-### 0.2 License
+### 0.2. License
 This piece of work is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) by [Ravy](https://ravy.pink) (contact@ravy.pink).  
 You can find more about the license [here](https://creativecommons.org/licenses/by-nc-nd/4.0/).  
-More information about why is available in the postscript at PS.2
+More information about why is available in the postscript at PS.2.
+
 
 ## I. General Definitions
 
@@ -73,6 +74,7 @@ A channel ("channels") shall be any place in Discord where information can be tr
 **Message**  
 A message shall be defined as any content shared by a user in a text-based channel that shares the same channel id, as well as the same ID for the /messages/:id subpath of its channel.
 
+
 ## II. General Guidelines
 
 ### II.1. Violations
@@ -123,6 +125,7 @@ You must not and must not allow someone to reverse engineer, disrupt, interfere 
 **(iii) Do not put yourself in the spotlight**  
 You shall refrain from actions that are meant to fuel your desire for attention at the cost of disturbing others. This includes tasks such as hoisting or unmentionable nicknames.
 
+
 ## III. Conversational Guidelines
 
 **(i) Disruptive content**  
@@ -152,6 +155,7 @@ You must refrain from sharing content whose purpose it is to negatively shock, i
 
 **(ix) Harmful content**  
 You must not, in any situation, at any point in time, under any condition, post content that promotes, glorifies, or justifies rape, sexual harassment, gore, abuse, self-harm, or suicide or could be interpreted as such. Further, you must not make any threats whatsoever to any user, especially not of the aforementioned topics.
+
 
 ## IV. Operational Guidelines
 
@@ -189,7 +193,7 @@ If any party in a similar case (not the same case the request for arbitration wa
 
 ## Postscript
 
-### PS.1 Inspiration
+### PS.1. Inspiration
 
 Of course, this document didn't come out of thin air.  
 I've written Terms of Service and rulesets in the past and wanted to make this somewhat of a magnum opus to those rulesets, overshadowing all my previous work in the field.  
@@ -197,8 +201,7 @@ Section I.1. is inspired by and adapted to the IETF's [RFC2119](https://tools.ie
 A lot of great rules originate from the Discord Gophers' and the RiceTeaCatPanda CTF's respective Codes of Conduct.
 The arbitration process is inspired by the RfA and Arbitration Committee on Wikipedia.
 
-
-### PS.2 More about the license
+### PS.2. More about the license
 
 While it might seem trivial to copy parts of this and just use them for your ruleset without credit, a lot of work went into this and I would appreciate you playing fair.  
 If you're not sure on how to properly credit me, or which usage rights and conditions this license grants, feel free to reach out at contact@ravy.pink
