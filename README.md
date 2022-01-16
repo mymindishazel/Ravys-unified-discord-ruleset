@@ -1,6 +1,6 @@
 # A guide to civil conversation
 
-*Last changed: 4th October 2021*
+*Last changed: 16th January 2022*
 
 
 ## 0. Preamble
@@ -53,6 +53,9 @@ A message ("messages") shall be defined as a singular entity containing communic
 **Moderator**  
 A moderator ("moderators", "mod", "mods") shall be defined as a community member with elevated permissions to guide and influence conversation.
 
+**Content**  
+Content shall be defined as any data, text, graphics, photographs and their selection and arrangement, and any materials uploaded to a Community. 
+
 ### I.2.a Discord-specific Definitions
 
 **Snowflake**  
@@ -87,7 +90,7 @@ An attempt to violate any of the following guidelines should be punished to the 
 **(iii) Scope of a violation**  
 The following and previous guidelines apply to any aspect of your community membership. This includes text messages, voice communication, profile cards, and any other visible, invisible, direct, or implied item linked to the community.
 
-### II.2. Fallback
+### II.2. What to do when there's no specific rule
 
 **(i) Think about your own actions**  
 As a rule of thumb, "Act in such a way that the maxim of your will could always hold at the same time as a principle of a universal legislation." (Kant, Critique of Practical Reason)  
@@ -127,7 +130,13 @@ Further, you must not accuse anyone with unbackable claims or give wrong feedbac
 **c.**
 You shall not impersonate or misrepresent anyone.
 
-### II.4. Integrity
+### II.4. Respect intellectual property
+
+You shall only use content that is original to you, or that you own the usage rights to where usage is permitted by fair use or similar laws.  
+No licenses or rights are granted to you by implication when content is posted in a community. Therefore, you may not distribute content posted in a community unless you own the usage rights or where permitted by fair use or similar laws.  
+You shall not use content where your usage is explicitly disallowed by the copyright owner unless you can extensively prove fair use.
+
+### II.5. Integrity
 
 **(i) Do not abuse automated systems**  
 You must not and must not allow someone to reverse engineer, disrupt, or interfere with any automated systems in place to support the community. You must also refrain from misusing places built for feedback, suggestions, or support.
